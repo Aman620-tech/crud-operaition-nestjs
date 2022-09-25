@@ -1,0 +1,15 @@
+/*{
+
+    http://localhost:3000/student
+
+     "name":"Aman",
+    "roleNumber": 101,
+    "class": 10,
+    "gender": "Male",
+    "marks": 65
+}
+
+
+https://medium.com/globant/crud-application-using-nestjs-and-mongodb-99a0756adb76
+
+*/
